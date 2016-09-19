@@ -5,3 +5,7 @@
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.address-bar {
+  /*font-family: cursive;*/
+}
