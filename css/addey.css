@@ -9,3 +9,9 @@
 .address-bar {
   /*font-family: cursive;*/
 }
+
+.bkg-txt {
+  background-color: hsla(360, 100%, 100%, .8);
+  border-radius: 10px;
+  padding: 1% 1% 1% 1%;
+}
